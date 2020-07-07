@@ -1,0 +1,247 @@
+body{
+    text-align: center;
+    background-color: white;
+}
+
+#title{
+    background-color: #f6e1e1;
+    margin:20px;
+    height: 50rem;
+    width:90%;
+    margin-left: auto;
+    margin-right:auto ;
+    background-image: url('/images/Leadership.png');
+    background-size: cover;
+    background-position: center center;
+
+  
+}
+
+.company{
+    font-family: 'Fredoka One', cursive;
+}
+
+.nav-link{
+        font-family: 'Fredoka One', cursive;
+        
+    
+}
+
+.linkk:hover{
+    color: white;
+}
+
+.navbar-custom .navbar-brand,.navbar-custom .navbar-text { 
+            color: #5c2a9d; 
+        } 
+
+nav .navbar-nav li a{
+    color: #5c2a9d !important;
+}
+
+.harv{
+    padding-top: 20px;
+    margin-right: 15px;
+}
+.building{
+    float: left;
+    width: 50%;
+    
+    margin-bottom: 50px;
+    margin-right: 5rem;
+    
+    rotate: right;
+    transform: rotate(-7deg);
+}
+
+.upper-div{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ff847c;
+    width: 50%;
+    box-shadow: 4px 6px black;
+    opacity: 0.9;
+
+}
+
+h1{
+    font-size: 150%;
+}
+
+h3{
+    font-size: 130%;
+}
+
+.middle-section{
+
+    margin-top: 10rem;
+
+}
+
+
+.lower-div{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ff847c;
+    color: white;
+    width: fit-content;
+}
+
+.description{
+    width: 75%;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #e0dede;
+    color: #1b6ca8;
+}
+
+
+.points{
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.point-image{
+
+        width: 25rem;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.descript{
+    border: black;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    
+}
+
+.points-description{
+
+    padding: 2rem;
+    color: #b83b5e;
+    font-weight: bold;
+    font-family: 'Acme', sans-serif;
+}
+
+.universities{
+    background-image: url('/images/harvard.png');
+    background-size: cover;
+    
+    height: 5rem;
+    background-repeat: no-repeat;
+}
+
+.cara-images{
+    width: 40%;
+    height: 6rem;
+}
+
+.cars{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.8rem;
+    
+    
+}
+
+.outer-carousel{
+    width: 40%;
+    height: 10rem;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4rem;
+    text-align:center;
+    background-color: #f4f4f4;
+    box-shadow: 2px 4px black;
+}
+
+.leaders-image{
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    opacity: 0.8;
+}
+
+.personalities{
+    width: 100%;
+}
+
+.personalities2{
+    width: 50%;
+}
+
+.container {
+    border: 2px solid #ccc;
+    background-color: grey;
+    border-radius: 5px;
+    padding: 16px;
+    margin-top: 4rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 8rem;
+    padding-bottom: 9rem;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  .container::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .container img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+  
+  .container span {
+    font-size: 20px;
+    margin-right: 15px;
+  }
+  
+  @media (max-width: 500px) {
+    .container {
+        text-align: center;
+    }
+    .container img {
+        margin: auto;
+        float: none;
+        display: block;
+    }
+  }
+
+
+.last-box{
+    margin-top: 15rem;
+    background-color: #84a9ac;
+    width: 75%;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10rem;
+}
+
+.custom-toggler .navbar-toggler-icon { 
+    background-image: url( 
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(139,0,139,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
+} 
+
+.test-div{
+    margin-top: 20rem; 
+    background-color: #e0dede; 
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto;
+    padding-bottom: 6rem;
+}
+
