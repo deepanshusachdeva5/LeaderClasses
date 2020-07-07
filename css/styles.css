@@ -10,7 +10,7 @@ body{
     width:90%;
     margin-left: auto;
     margin-right:auto ;
-    background-image: url('/images/Leadership.png');
+    background-image: url('../images/Leadership.png');
     background-size: cover;
     background-position: center center;
 
@@ -130,7 +130,7 @@ h3{
 }
 
 .universities{
-    background-image: url('/images/harvard.png');
+    background-image: url('../images/harvard.png');
     background-size: cover;
     
     height: 5rem;
